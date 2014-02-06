@@ -93,6 +93,8 @@
 			return "<col=c96300>The Divine</col> ";
 		case 44:
 			return "<col=c96300>The Fallen</col> ";
+		case 45:
+			return "<col=963000>Philosopher</col>";
 		}
 		return "";
 	}
